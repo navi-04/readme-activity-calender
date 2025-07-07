@@ -13,6 +13,7 @@ If you're contributing to this project, you're already part of something meaning
 Before opening a Pull Request, make sure to:
 
 - ⭐ **Star** this repository to support the project
+- 👥 **Follow** all the members of FEWINFOS on GitHub and LinkedIn
 - 🧑‍💻 Share your contribution on **LinkedIn** or **Twitter**
 - 📢 Mention **FEWINFOS** and tag your teammates if part of a group
 - 💬 Add your name and contribution to the contributor list below
