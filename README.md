@@ -1,7 +1,8 @@
 <div align="center">
   <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
 </div>
-#  Welcome to Open Source with FEWINFOS! 🚀
+
+# 👋 Welcome to Open Source with FEWINFOS! 🚀
 
 We at **FEWINFOS** believe in learning through collaboration and building innovative solutions that matter.
 
@@ -19,10 +20,10 @@ If you're contributing to this project, you're already part of something meaning
 
 Before opening a Pull Request, make sure to:
 
-- ⭐ **Star** this repository to support the project
-- 🧑‍💻 Share your contribution on **LinkedIn** or **Twitter**
-- 📢 Mention **FEWINFOS** and tag your teammates if part of a group
-- 💬 Add your name and contribution to the contributor list below
+- ⭐ **Star** this repository to support the project  
+- 🧑‍💻 Share your contribution on **LinkedIn** or **Twitter**  
+- 📢 Mention **FEWINFOS** and tag your teammates if part of a group  
+- 💬 Add your name and contribution to the contributor list below  
 
 ---
 
@@ -30,31 +31,29 @@ Before opening a Pull Request, make sure to:
 
 Want to be showcased as a contributor?
 
-1. Add your name under the contributors list.
-2. Create a Pull Request with your update.
-3. You're in! 🎉
+1. Add your name under the contributors list.  
+2. Create a Pull Request with your update.  
+3. You're in! 🎉  
 
 ---
 
 <h3 align="center">🚀 FEWINFOS Contributors Hall of Fame</h3>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/SuvithaaaaR">
-        <img src="https://avatars.githubusercontent.com/u/179398780?v=4" width="100px;" alt="Suvitha Ramesh"/>
-        <br/>
+        <img src="https://avatars.githubusercontent.com/u/179398780?v=4" width="100px;" alt="Suvitha Ramesh"/><br/>
         <sub><b>Suvitha Ramesh</b></sub>
-      </a>
-      <br/>COO & Frontend Dev
+      </a><br/>
+      COO & Frontend Dev
     </td>
     <td align="center">
       <a href="https://github.com/your-github-username">
-        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px;" alt="Your Name"/>
-        <br/>
+        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px;" alt="Your Name"/><br/>
         <sub><b>Your Name</b></sub>
-      </a>
-      <br/>Your Role
+      </a><br/>
+      Your Role
     </td>
     <!-- Add more contributors below this line -->
   </tr>
@@ -67,20 +66,19 @@ Want to be showcased as a contributor?
 ## 🔗 Connect with FEWINFOS
 
 <p align="center">
-    <a href=https://www.linkedin.com/company/fewinfos/posts/?feedView=all>
-        <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.fewinfos.com">
-        <img height="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-website-web-design-flatart-icons-outline-flatarticons.png" alt="Website"/>
-    </a>
+  <a href="https://www.linkedin.com/company/fewinfos/posts/?feedView=all">
+    <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.fewinfos.com">
+    <img height="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-website-web-design-flatart-icons-outline-flatarticons.png" alt="Website"/>
+  </a>
 </p>
 
 ---
 
 > 💬 _Fueled by passion, crafted with purpose — from the minds at **FEWINFOS** 💡💻✨_
 
-<!-- Banner Image -->
-
+---
 
 # 📦 GitHub Repository Stats Widget
 
@@ -96,26 +94,26 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 
 ## ✨ Features
 
-- 🔄 Real-time data fetching via GitHub REST API
-- ⭐ Displays stars, forks, watchers, issues, and pull requests
-- 👥 Visualizes top contributors with avatars and commit counts
-- 📊 Shows languages used with interactive charts
-- 📅 Displays repository creation date and last updated time
-- 📜 Shows license information
-- 🎨 Clean, responsive, and customizable UI
-- 💻 Works directly in any browser (no server setup)
-- 🧩 Easily embeddable in websites or README.md files
-- 📈 Optional visualizations via Chart.js
+- 🔄 Real-time data fetching via GitHub REST API  
+- ⭐ Displays stars, forks, watchers, issues, and pull requests  
+- 👥 Visualizes top contributors with avatars and commit counts  
+- 📊 Shows languages used with interactive charts  
+- 📅 Displays repository creation date and last updated time  
+- 📜 Shows license information  
+- 🎨 Clean, responsive, and customizable UI  
+- 💻 Works directly in any browser (no server setup)  
+- 🧩 Easily embeddable in websites or README.md files  
+- 📈 Optional visualizations via Chart.js  
 
 ---
 
 ## 🧱 Tech Stack
 
-- **HTML** – Structure and layout
-- **CSS** – Styling and responsiveness
-- **JavaScript** – Logic and API handling
-- **GitHub REST API** – Data source
-- **Chart.js** – For rendering graphs and charts (optional)
+- **HTML** – Structure and layout  
+- **CSS** – Styling and responsiveness  
+- **JavaScript** – Logic and API handling  
+- **GitHub REST API** – Data source  
+- **Chart.js** – For rendering graphs and charts (optional)  
 
 ---
 
@@ -123,52 +121,52 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 
 ### 🔍 Repository Stats
 
-- ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter
-- 📅 Repository creation & last updated date
-- 📜 License type display
-- 📊 Language usage (pie, bar, donut chart)
-- 📦 Dependency graph (npm, pip, etc.)
-- 📈 Commit activity heatmap
-- 🕐 Average PR merge time
-- 🧵 Issue status breakdown (Open / Closed / Pinned)
+- ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter  
+- 📅 Repository creation & last updated date  
+- 📜 License type display  
+- 📊 Language usage (pie, bar, donut chart)  
+- 📦 Dependency graph (npm, pip, etc.)  
+- 📈 Commit activity heatmap  
+- 🕐 Average PR merge time  
+- 🧵 Issue status breakdown (Open / Closed / Pinned)  
 
 ### 👥 Contributor Widgets
 
-- 👥 Top contributors (avatars + commit counts)
-- 📊 Contributions by weekday
-- 🗺️ Contributor location map (public data)
-- ⏱️ Recent contributors (last 7 / 30 days)
-- 📈 Contributions over time (stacked area graph)
+- 👥 Top contributors (avatars + commit counts)  
+- 📊 Contributions by weekday  
+- 🗺️ Contributor location map (public data)  
+- ⏱️ Recent contributors (last 7 / 30 days)  
+- 📈 Contributions over time (stacked area graph)  
 
 ### 📊 Graph-Based Widgets
 
-- 📊 Radar chart of repo health (stars, forks, PRs, issues)
-- 📉 Line chart for star/fork growth trends
-- 🍩 Donut chart for language usage
-- 📈 Area chart for issues/PR trends
-- 📆 GitHub-style calendar heatmap
+- 📊 Radar chart of repo health (stars, forks, PRs, issues)  
+- 📉 Line chart for star/fork growth trends  
+- 🍩 Donut chart for language usage  
+- 📈 Area chart for issues/PR trends  
+- 📆 GitHub-style calendar heatmap  
 
 ### ⚙️ DevOps & CI/CD Widgets
 
-- 🚦 GitHub Actions CI/CD status badge
-- 🧪 Code coverage badge (Codecov, Coveralls)
-- 🔄 Last workflow run widget
-- 🛠️ Build history timeline (success/failure visual)
+- 🚦 GitHub Actions CI/CD status badge  
+- 🧪 Code coverage badge (Codecov, Coveralls)  
+- 🔄 Last workflow run widget  
+- 🛠️ Build history timeline (success/failure visual)  
 
 ### 📌 Issue & PR Widgets
 
-- 📋 Pinned issues or discussions
-- 🔍 Issue label word cloud
-- 📬 PR merge status/ratio tracker
-- 📈 Issue sentiment indicator (based on keywords)
+- 📋 Pinned issues or discussions  
+- 🔍 Issue label word cloud  
+- 📬 PR merge status/ratio tracker  
+- 📈 Issue sentiment indicator (based on keywords)  
 
 ### 🧩 Miscellaneous Widgets
 
-- 📌 Bookmark/Favorite repo button
-- 🔍 Inline search to enter other repositories
-- 🧠 AI-powered commit summary (optional)
-- 🔗 Related repositories widget
-- 🪄 Export widget as iframe / HTML embed
+- 📌 Bookmark/Favorite repo button  
+- 🔍 Inline search to enter other repositories  
+- 🧠 AI-powered commit summary (optional)  
+- 🔗 Related repositories widget  
+- 🪄 Export widget as iframe / HTML embed  
 
 ---
 
