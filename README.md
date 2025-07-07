@@ -241,9 +241,9 @@ Feel free to use, modify, and distribute it with attribution.
 
 ## 💬 Contact
 
-**Maintainer:** [Your Name]  
-**GitHub:** [https://github.com/your-username](https://github.com/your-username)  
-**Email:** your.email@example.com
+**Maintainer:** FEWINFOS 
+**GitHub:** https://github.com/Fewinfos/  
+**Email:** fewinfos@gmail.com
 
 ---
 
