@@ -52,6 +52,13 @@ Want to be showcased as a contributor?
       </a><br/>
       Lead Developer
     </td>
+    <td align="center">
+      <a href="https://github.com/muthuraj128">
+        <img src="https://avatars.githubusercontent.com/u/199897552?u=bf92c4376b2503e234815f6b57d697df53342f07&v=4&size=64" width="100px;" alt="Muthuraj"/><br/>
+        <sub><b>Muthuraj R</b></sub>
+      </a><br/>
+      Contributor
+    </td>
   </tr>
 </table>
 
