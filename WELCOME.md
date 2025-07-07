@@ -30,19 +30,19 @@ Want to be showcased as a contributor?
 
 <table align="center">
   <tr>
+  <td align="center">
+      <a href="https://github.com/navi-04">
+        <img src="https://avatars.githubusercontent.com/u/150383546?v=4" width="100px;" alt="Your Name"/><br/>
+        <sub><b>Naveenraj Thiyagarajan</b></sub>
+      </a><br/>
+      CEO & CO-FOUNDER
+    </td>
     <td align="center">
       <a href="https://github.com/SuvithaaaaR">
         <img src="https://avatars.githubusercontent.com/u/179398780?v=4" width="100px;" alt="Suvitha Ramesh"/><br/>
         <sub><b>Suvitha Ramesh</b></sub>
       </a><br/>
-      COO & Frontend Dev
-    </td>
-    <td align="center">
-      <a href="https://github.com/your-github-username">
-        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px;" alt="Your Name"/><br/>
-        <sub><b>Your Name</b></sub>
-      </a><br/>
-      Your Role
+      COO & CO-FOUNDER
     </td>
     <!-- Add more contributors below this line -->
   </tr>
