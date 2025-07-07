@@ -45,6 +45,13 @@ Want to be showcased as a contributor?
       COO & CO-FOUNDER
     </td>
     <!-- Add more contributors below this line -->
+    <td align="center">
+      <a href="https://github.com/SWATHI-63">
+        <img src="https://avatars.githubusercontent.com/u/176415739?s=400&u=47e146116b1b15a300e9af8f64c7a73b3564555c&v=4" width="100px;" alt="Swathi"/><br/>
+        <sub><b>Swathi Sundharaj</b></sub>
+      </a><br/>
+      Lead Developer
+    </td>
   </tr>
 </table>
 
